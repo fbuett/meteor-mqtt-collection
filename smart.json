@@ -1,9 +1,9 @@
 {
 	"name": "mqtt",
 	"description": "IoT - send/receive MQTT messages via collections",
-	"homepage": "https://github.com/perak/meteor-mqtt-collection",
-	"author": "Petar Korponaic",
-	"version": "1.0.3",
-	"git": "https://github.com/perak/meteor-mqtt-collection.git",
+	"homepage": "https://github.com/fbuett/meteor-mqtt-collection",
+	"author": "Petar Korponaic, Frank Buettner",
+	"version": "1.0.6",
+	"git": "https://github.com/fbuett/meteor-mqtt-collection.git",
 	"packages": {}
 }
