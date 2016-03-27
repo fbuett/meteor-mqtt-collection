@@ -43,7 +43,7 @@ Establishes connection to MQTT broker and subscribes to listed topic(s).
 ```
 {
 	insert: false,
-	insertLimit: <max # of messages in collection>
+	insertLimit: <max # of messages in collection>,
 	raw: false
 }
 ```
