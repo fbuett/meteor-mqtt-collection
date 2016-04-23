@@ -1,6 +1,6 @@
 Package.describe({
   name: "mqtt-collection",
-  version: "1.0.6",
+  version: "1.0.7",
   summary: "IoT for Meteor - send/receive MQTT messages via collections",
   git: "https://github.com/fbuett/meteor-mqtt-collection.git",
   documentation: "README.md"
